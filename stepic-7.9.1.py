@@ -1,4 +1,3 @@
-
 for b in range(1, 101):
     for k in range(1, 101):
         t = 100 - b - k
