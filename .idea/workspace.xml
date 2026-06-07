@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59e64eb9-713b-4d8f-846c-23d0ecab9a50" name="Changes" comment="Дано натуральное число. Напишите программу, которая определяет, состоит ли указанное число из одинаковых цифр.&#10;&#10;Формат входных данных&#10;На вход программе подаётся натуральное число.&#10;&#10;Формат выходных данных&#10;Программа должна вывести «YES» (без кавычек), если число состоит из одинаковых цифр, или «NO» (без кавычек) в противном случае.">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gyg.py" afterDir="false" />
-    </list>
+    <list default="true" id="59e64eb9-713b-4d8f-846c-23d0ecab9a50" name="Changes" comment="Сколько быков, коров и телят можно купить ровно на 100 рублей, если плата за быка -10 рублей, за корову – 5 рублей, за телёнка – 0.5 рубля и надо купить 100 голов скота?" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,27 +44,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.gyg.executor&quot;: &quot;Run&quot;,
-    &quot;Python.stepic-7.6.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.stepic-7.6.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.gyg.executor": "Run",
+    "Python.stepic-7.6.2.executor": "Run",
+    "Python.stepic-7.6.executor": "Run",
+    "Python.stepic-7.9.1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -87,7 +82,7 @@
       <updated>1780688265508</updated>
       <workItem from="1780688266540" duration="5411000" />
       <workItem from="1780753542559" duration="5516000" />
-      <workItem from="1780855644316" duration="819000" />
+      <workItem from="1780855644316" duration="1133000" />
     </task>
     <task id="LOCAL-00001" summary="add stepic 7.6 file">
       <option name="closed" value="true" />
@@ -161,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780754553757</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Сколько быков, коров и телят можно купить ровно на 100 рублей, если плата за быка -10 рублей, за корову – 5 рублей, за телёнка – 0.5 рубля и надо купить 100 голов скота?">
+      <option name="closed" value="true" />
+      <created>1780858269311</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1780858269311</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,11 +175,13 @@
     <MESSAGE value="минимум и максимум" />
     <MESSAGE value="Дано натуральное число. Напишите программу, которая вычисляет:&#10;&#10;сумму его цифр;&#10;количество цифр в нем;&#10;произведение его цифр;&#10;среднее арифметическое его цифр;&#10;его первую цифру;&#10;сумму его первой и последней цифры." />
     <MESSAGE value="Дано натуральное число. Напишите программу, которая определяет, состоит ли указанное число из одинаковых цифр.&#10;&#10;Формат входных данных&#10;На вход программе подаётся натуральное число.&#10;&#10;Формат выходных данных&#10;Программа должна вывести «YES» (без кавычек), если число состоит из одинаковых цифр, или «NO» (без кавычек) в противном случае." />
-    <option name="LAST_COMMIT_MESSAGE" value="Дано натуральное число. Напишите программу, которая определяет, состоит ли указанное число из одинаковых цифр.&#10;&#10;Формат входных данных&#10;На вход программе подаётся натуральное число.&#10;&#10;Формат выходных данных&#10;Программа должна вывести «YES» (без кавычек), если число состоит из одинаковых цифр, или «NO» (без кавычек) в противном случае." />
+    <MESSAGE value="Сколько быков, коров и телят можно купить ровно на 100 рублей, если плата за быка -10 рублей, за корову – 5 рублей, за телёнка – 0.5 рубля и надо купить 100 голов скота?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сколько быков, коров и телят можно купить ровно на 100 рублей, если плата за быка -10 рублей, за корову – 5 рублей, за телёнка – 0.5 рубля и надо купить 100 голов скота?" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_learn$gyg.coverage" NAME="gyg Coverage Results" MODIFIED="1780855843229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learn$stepic_7_6_2.coverage" NAME="stepic-7.6.2 Coverage Results" MODIFIED="1780754541232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learn$stepic_7_9_1.coverage" NAME="stepic-7.9.1 Coverage Results" MODIFIED="1780858431488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learn$stepic_7_6.coverage" NAME="stepic-7.6 Coverage Results" MODIFIED="1780692585975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
